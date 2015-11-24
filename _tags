@@ -1,1 +1,1 @@
-true: no_alias_deps
+<mylib.ml{i,}>: no_alias_deps
